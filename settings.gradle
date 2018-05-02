@@ -1,1 +1,1 @@
-include ':app', ':library', ':library-release', ':library-debug'
+include ':app', ':basic-release'
